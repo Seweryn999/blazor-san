@@ -1,5 +1,3 @@
-C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\wwwroot\_framework\blazor-san.wppbj9woic.pdb
-C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\wwwroot\_framework\blazor-san.4xey4i7cbi.wasm
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\wwwroot\_framework\blazor.boot.json
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\wwwroot\_framework\blazor.webassembly.js
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\wwwroot\_framework\dotnet.js
@@ -318,7 +316,6 @@ C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\wwwroot\_framewor
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.42czujeagm.wasm.gz
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\wwwroot\_framework\Microsoft.Win32.Registry.yqsrs1xmzk.wasm.gz
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\wwwroot\_framework\System.Transactions.jhe7ttvcxe.wasm.gz
-C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\wwwroot\_framework\blazor-san.4xey4i7cbi.wasm.gz
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\wwwroot\_framework\System.Configuration.n0w13dgps7.wasm.gz
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\wwwroot\_framework\dotnet.native.hmanx9razn.js.gz
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\wwwroot\_framework\System.Xml.XmlDocument.2rtvbmbg2v.wasm.gz
@@ -372,7 +369,6 @@ C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\wwwroot\_framewor
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\wwwroot\_framework\System.Runtime.Numerics.lkwa1y52xd.wasm.gz
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\wwwroot\_framework\System.Security.Principal.Windows.x9ozykue0h.wasm.gz
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\wwwroot\_framework\System.Reflection.Extensions.4tzq2qhgrn.wasm.gz
-C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\wwwroot\_framework\blazor-san.wppbj9woic.pdb.gz
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\wwwroot\_framework\System.Net.Sockets.5ukvpfkc22.wasm.gz
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\wwwroot\_framework\System.Net.Http.Json.ljpilq5tdm.wasm.gz
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\wwwroot\_framework\System.Security.Cryptography.Primitives.qwfipn2fwe.wasm.gz
@@ -816,7 +812,6 @@ C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\obj\Release\net9.0\scopedcss\project
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\obj\Release\net9.0\blazor.build.boot-extension.json
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\obj\Release\net9.0\blazor.boot.json
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\obj\Release\net9.0\compressed\jubav45fd2-8rbvw3on5j.gz
-C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\obj\Release\net9.0\compressed\d204nn28y6-steqte3tk2.gz
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\obj\Release\net9.0\compressed\30bcouc21t-bqjiyaj88i.gz
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\obj\Release\net9.0\compressed\1fcnghavjw-c2jlpeoesf.gz
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\obj\Release\net9.0\compressed\d41tvujyse-erw9l3u2r3.gz
@@ -1065,9 +1060,6 @@ C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\obj\Release\net9.0\compressed\sy8u3p
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\obj\Release\net9.0\compressed\95po0qj5zp-tjcz0u77k5.gz
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\obj\Release\net9.0\compressed\g603ultec1-tptq2av103.gz
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\obj\Release\net9.0\compressed\ri1n9ueb0l-lfu7j35m59.gz
-C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\obj\Release\net9.0\compressed\jdmrz07qbv-4xey4i7cbi.gz
-C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\obj\Release\net9.0\compressed\tx4u11o10v-wppbj9woic.gz
-C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\obj\Release\net9.0\compressed\7wjaj95wow-8cgougnz3h.gz
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\obj\Release\net9.0\staticwebassets.build.json
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\obj\Release\net9.0\staticwebassets.development.json
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\obj\Release\net9.0\staticwebassets.build.endpoints.json
@@ -1082,3 +1074,13 @@ C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\obj\Release\net9.0\blazor-san.dll
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\obj\Release\net9.0\refint\blazor-san.dll
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\obj\Release\net9.0\blazor-san.pdb
 C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\obj\Release\net9.0\ref\blazor-san.dll
+C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\wwwroot\_framework\blazor-san.0o9pg7jl83.pdb
+C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\wwwroot\_framework\blazor-san.x571a4xyfo.wasm
+C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\wwwroot\_framework\blazor-san.x571a4xyfo.wasm.gz
+C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\wwwroot\_framework\blazor-san.0o9pg7jl83.pdb.gz
+C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\docs\sample-data\weather.json
+C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\bin\Release\net9.0\docs\_framework\blazor.boot.json
+C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\obj\Release\net9.0\compressed\d204nn28y6-n1ogjc1dug.gz
+C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\obj\Release\net9.0\compressed\jdmrz07qbv-x571a4xyfo.gz
+C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\obj\Release\net9.0\compressed\tx4u11o10v-0o9pg7jl83.gz
+C:\Users\Seweryn\OneDrive\Pulpit\blazor-san\obj\Release\net9.0\compressed\7wjaj95wow-286qjbs6hx.gz
